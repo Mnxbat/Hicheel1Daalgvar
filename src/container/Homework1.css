@@ -1,0 +1,6 @@
+.Homework1{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    gap: 10vh;
+}
